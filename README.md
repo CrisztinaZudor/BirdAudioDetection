@@ -9,3 +9,11 @@ https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/16280
 
 Folosite:
 https://arxiv.org/pdf/1309.5275.pdf
+
+Varianta fara spectograme:
+https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit
+
+Varianta cu spectograme:
+https://www.kaggle.com/datasets/langatfestus/bird-audio-detection/code
+https://www.kaggle.com/code/langatfestus/birdaudiodetection
+
