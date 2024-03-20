@@ -9,6 +9,7 @@ https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/16280
 Varianta fara spectograme:<br>
 https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit<br>
 <br>
+<br>
 ## Folosite:
 Abot the dataset:<br>
 https://arxiv.org/pdf/1309.5275.pdf<br>
