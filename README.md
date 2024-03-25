@@ -1,15 +1,13 @@
 # PSV
 
 ## Folosite:
+Varianta cu spectograme:<br>
+https://www.kaggle.com/datasets/langatfestus/bird-audio-detection/code<br>
+https://www.kaggle.com/code/langatfestus/birdaudiodetection<br>
 Abot the dataset:<br>
 https://arxiv.org/pdf/1309.5275.pdf<br>
 https://figshare.com/articles/dataset/Bird_Audio_Detection_Challenge_2016_public_data/3851466/1<br>
 https://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/<br>
-
-Varianta cu spectograme:<br>
-https://www.kaggle.com/datasets/langatfestus/bird-audio-detection/code<br>
-https://www.kaggle.com/code/langatfestus/birdaudiodetection<br>
-<br>
 <br>
 <br>
 <br>
