@@ -20,7 +20,6 @@ https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
 https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
 https://arxiv.org/pdf/1703.02317.pdf<br>
 https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
-Varianta fara spectograme:<br>
 https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit<br>
 <br>
 <br>
