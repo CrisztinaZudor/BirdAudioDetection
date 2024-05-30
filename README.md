@@ -23,3 +23,16 @@ https://www.pugetsystems.com/solutions/scientific-computing-workstations/machine
 https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
 <br>
 <br>
+
+## Bibliografie
+<br>
+https://www.kaggle.com/code/langatfestus/birdaudiodetection<br>
+https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
+https://arxiv.org/pdf/1703.02317.pdf<br>
+https://arxiv.org/pdf/1309.5275.pdf<br>
+https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
+https://arxiv.org/pdf/1309.5275.pdf<br>
+https://figshare.com/articles/dataset/Bird_Audio_Detection_Challenge_2016_public_data/3851466/1<br>
+https://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/<br>
+<br>
+
