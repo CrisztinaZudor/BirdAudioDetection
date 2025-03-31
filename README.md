@@ -1,38 +1,32 @@
-# PSV
+# Automatic Bird Detection in Audio Recordings
 
-## Folosite:
-Varianta cu spectograme:<br>
-https://www.kaggle.com/datasets/langatfestus/bird-audio-detection/code<br>
-https://www.kaggle.com/code/langatfestus/birdaudiodetection<br>
-Abot the dataset:<br>
-https://arxiv.org/pdf/1309.5275.pdf<br>
-https://figshare.com/articles/dataset/Bird_Audio_Detection_Challenge_2016_public_data/3851466/1<br>
-https://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/<br>
-<br>
-<br>
-<br>
-## Nefolosite:
-https://www.researchgate.net/publication/360190524_Bird_Sound_Detection_with_Binarized_Neural_Networks<br>
-https://github.com/soumysetu/birds_speech_recognition-<br>
-https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
-https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
-https://arxiv.org/pdf/1703.02317.pdf<br>
-https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
-https://www.kaggle.com/code/crisztinazudor/yamnet-bird-voice-detection/edit<br>
-https://www.pugetsystems.com/solutions/scientific-computing-workstations/machine-learning-ai/hardware-recommendations/<br>
-https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
-<br>
-<br>
+This project presents a method for detecting and classifying bird sounds using Convolutional Neural Networks (CNN). The primary focus is on preprocessing audio signals and extracting Mel-Frequency Cepstral Coefficients (MFCC) features, followed by classification using a CNN model. The performance of the model is evaluated based on accuracy and loss metrics, demonstrating its effectiveness in recognizing bird sounds.
 
-## Bibliografie
-<br>
-https://www.kaggle.com/code/langatfestus/birdaudiodetection<br>
-https://www.kaggle.com/c/bird-audio-detection/overview/datasets<br>
-https://arxiv.org/pdf/1703.02317.pdf<br>
-https://arxiv.org/pdf/1309.5275.pdf<br>
-https://www.irjmets.com/uploadedfiles/paper/volume2/issue_4_april_2020/364/1628082972.pdf<br>
-https://arxiv.org/pdf/1309.5275.pdf<br>
-https://figshare.com/articles/dataset/Bird_Audio_Detection_Challenge_2016_public_data/3851466/1<br>
-https://machine-listening.eecs.qmul.ac.uk/bird-audio-detection-challenge/<br>
-<br>
+## Project Overview
+
+The project aims to assist ornithologists, ecologists, and bird-watching enthusiasts in monitoring bird populations and studying their behaviors through automated audio recognition. The challenge lies in accurately identifying bird sounds amid noisy recordings from various environments, necessitating advanced technological solutions.
+
+## Methodology
+
+The methodology involves several key processes:
+
+- **Data Preprocessing:** Audio signals are preprocessed to extract relevant features, which are then transformed into spectrograms for input into the CNN model.
+- **Feature Extraction:** We utilize MFCC for transforming audio frequency spectra into the cepstral domain, which mimics human-like hearing perceptions.
+- **CNN Model:** The CNN architecture is designed to classify preprocessed audio signals effectively. It includes layers for convolution, pooling, and dropout to prevent overfitting, followed by dense layers for final classification.
+
+## Dataset
+
+We use the Freefield1010 dataset, consisting of 7,690 audio recordings, each lasting 10 seconds. This dataset provides a standardized collection of audio samples, suitable for training and testing our model. Each recording is in mono channel, with a sampling frequency of 44.1 kHz and 16-bit PCM encoding.
+
+## Libraries and Tools
+
+The following libraries and tools are integral to our project:
+
+- **NumPy:** For handling numerical operations.
+- **Pandas:** For data manipulation and I/O operations.
+- **Librosa:** For audio signal processing.
+- **TensorFlow & Keras:** For building and training the CNN model.
+- **Matplotlib & Seaborn:** For data visualization.
+- **IPython.display:** For audio playback in notebooks.
+
 
