@@ -16,11 +16,11 @@ The methodology involves several key processes:
 
 ## Dataset
 
-We use the Freefield1010 dataset, consisting of 7,690 audio recordings, each lasting 10 seconds. This dataset provides a standardized collection of audio samples, suitable for training and testing our model. Each recording is in mono channel, with a sampling frequency of 44.1 kHz and 16-bit PCM encoding.
+The Freefield1010 dataset is used, consisting of 7,690 audio recordings, each lasting 10 seconds. This dataset provides a standardized collection of audio samples, suitable for training and testing our model. Each recording is in mono channel, with a sampling frequency of 44.1 kHz and 16-bit PCM encoding.
 
 ## Libraries and Tools
 
-The following libraries and tools are integral to our project:
+The following libraries and tools are integral to the project:
 
 - **NumPy:** For handling numerical operations.
 - **Pandas:** For data manipulation and I/O operations.
