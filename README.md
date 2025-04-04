@@ -32,43 +32,14 @@ The following libraries and tools are integral to the project:
 ## How to Run the Code
 
 ### Running the Code in Google Colab
-
-You can easily run the code in Google Colab by following these steps:
-
-1. **Download the Dataset**:  
-   Download both of the following files from [this Kaggle link](https://www.kaggle.com/datasets/langatfestus/bird-audio-detection):
-   - `ff1010bird_metadata.csv` — contains metadata for the audio samples.
-   - `ff1010bird_wav` — a folder containing all the audio `.wav` files used in the project.
-
-2. **Open in Colab**:  
-   Navigate to the `BirdDetection.ipynb` notebook in this repository. Click on the "Open in Colab" button at the top of the notebook to launch it in Google Colab.
-
-3. **Upload the Files**:  
-   Before running the notebook, upload both:
-   - `ff1010bird_metadata.csv`
-   - The **entire** `ff1010bird_wav` folder  
-   to your Colab session using the file upload feature (accessible from the left sidebar under the Files tab).
-
-4. **Run the Notebook**:  
-   Once everything is uploaded and the notebook is open:
-   - Click on `Runtime` > `Run all` to execute all cells in sequence.
-   - Alternatively, run each cell individually using the play button next to each code block.
-
+You can easily run the code in Google Colab with the following steps:
+1. **Open in Colab**: Navigate to the `BirdAudioDetection.ipynb` notebook in this repository. You will find an "Open in Colab" button at the top of the notebook. Click this button to open the notebook directly in Google Colab.
+2. **Running the Notebook**: Once the notebook is open in Google Colab, you can execute the code:
+    - Run all cells in sequence by clicking on `Runtime` in the menu bar, then selecting `Run all`.
+    - Alternatively, run each cell individually by clicking the play button on the left side of each code cell.
+    - 
 ### Running Locally
-
-If you prefer to run the notebook on your local machine:
-
-1. **Download the Notebook**:  
-   Go to `BirdDetection.ipynb` in the GitHub repository, click on `Raw`, then right-click and choose "Save as" to download the notebook to your computer.
-
-2. **Download the Dataset**:  
-   From [this Kaggle link](https://www.kaggle.com/datasets/langatfestus/bird-audio-detection), download:
-   - `ff1010bird_metadata.csv`
-   - The `ff1010bird_wav` folder containing all the audio files.
-
-3. **Place Files in Same Directory**:  
-   Ensure that both the CSV file and the `ff1010bird_wav` folder are in the same directory as the notebook.
-
-4. **Run the Notebook**:  
-   Open the notebook with Jupyter or another supported IDE (like VS Code with a Python environment). Run the cells sequentially or individually. Make sure your environment has the necessary dependencies installed.
-
+If you prefer to run the notebook locally:
+1. **Download the Notebook**: Click on `BirdAudioDetection.ipynb` in the GitHub repository and download it by clicking on `Raw`, then right-clicking and choosing "Save as" to download the file to your local machine.
+2. **Upload to Colab**: Go to [Google Colab](https://colab.research.google.com/), and select `Upload notebook` from the `File` menu to upload the downloaded `.ipynb` file.
+3. **Run the Notebook**: Follow the same steps as above to run the notebook cells sequentially or individually.
